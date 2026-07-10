@@ -12,12 +12,6 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 * 🔍 Interested in Web Development, SaaS Products, and AI-Powered Applications
 * 📍 Maharashtra, India
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruwvaviya999\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwvaviya999\&layout=compact)
-
 ## 📫 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/dhruwvaviya
