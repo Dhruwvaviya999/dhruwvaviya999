@@ -12,68 +12,17 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 * 🔍 Interested in Web Development, SaaS Products, and AI-Powered Applications
 * 📍 Maharashtra, India
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
-* Redux
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* JWT Authentication
-
-### Database
-
-* MongoDB
-* PostgreSQL
-* Firebase
-
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Vercel
-* Postman
-* Cloudinary
-
-## 📂 Featured Projects
-
-### 🔐 Password Manager
-
-Secure password management application with authentication and encrypted storage.
-
-### 📊 Daily Sales Activity Dashboard
-
-Internal business tool for tracking and analyzing daily sales activities.
-
-### 💰 Finance Tracker
-
-Expense and income tracking application built with Firebase.
-
-### 🌦️ Weather App
-
-Real-time weather application using modern frontend technologies.
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruwvaviya999\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruwvaviya999\&layout=compact)
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: YOUR_EMAIL
-* Portfolio: YOUR_PORTFOLIO
+* LinkedIn: https://linkedin.com/in/dhruwvaviya
+* Email: dhruwvaviya123@gmail.com
+* Portfolio: dhruwvaviya.vercel.app
 
 ---
 
