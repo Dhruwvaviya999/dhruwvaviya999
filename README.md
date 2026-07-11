@@ -1,6 +1,6 @@
 # Hi there, I'm Dhruw Vaviya 👋
 
-### Full Stack Developer | MERN Stack Developer | BCom Graduate
+### Full Stack Developer | MERN Stack Developer
 
 I'm a passionate Full Stack Developer focused on building scalable web applications using the MERN stack. I enjoy learning new technologies, solving real-world problems, and creating applications that improve business processes.
 
